@@ -1,0 +1,79 @@
+.account-image{
+      width: 30px;
+      border-radius: 25px;
+}
+.header_style{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    align-items: center;
+   
+}
+.gmail,.account,.grid{
+    margin-right: 15px;
+}
+.gmail{
+    /* font: 14px arial sans-serif; */
+    font-family: Roboto,Arial;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.image{
+    margin-right: 30px ;
+    font-family: Roboto,Arial;
+    font-size: 14px;
+}
+
+.grid{
+    margin-right: 27px;
+}
+.header_anchor {
+    text-decoration: none;
+}
+.header_anchor:hover{
+    text-decoration: underline;
+}
+
+
+
+.down-bar{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.lower_line{
+    display: flex;
+
+}
+.google-ser{
+    margin-right: 40px;
+}
+.button_style{
+    padding: 10px 15px 10px 15px;
+    background-color: #F8F9FA;
+    border-color: #F8F9FA;
+    border-radius: 5px;
+    border-style: solid;
+    font-family: 'Roboto', sans-serif;
+   
+}
+.button_style:hover{
+    border-color:lightgray;
+    border-width: thin;
+}
+.fonts{
+    margin-top: 28px;
+    text-align: center;
+}
+.language_anchor{
+    text-decoration: none;
+    font-family: Roboto,Arial;
+    font-size: 13px;
+    margin: 3px;
+    
+}
+.language_anchor:hover{
+    text-decoration: underline;
+}
